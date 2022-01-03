@@ -9,12 +9,18 @@ st.Frunze 11/7
 **E-mail** coooll81@gmail.com
 
 ##Education##
+
 **Francisk Skorina Gomel State University**
+
 Department ASIP "Automated systems of information processing" with specializations: "Corporate networks and systems".
 
 
 ##Experience##
+
 **Rechitsa regional library network**
+
 sistem administrator
+
 **Network of public libraries of the city of Gomel**
+
 Head of Automation and Information Technology Department - software engineer
