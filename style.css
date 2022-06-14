@@ -1,3 +1,45 @@
+body {
+
+}
+
 img {
     width: 300px;
+}
+
+.header {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: lightgray;
+}
+
+h1 {
+    margin: 0 auto;
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.main {
+    max-width: 1280px;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+
+.footer {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    background-color: lightgray;
 }
